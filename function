@@ -1,0 +1,10 @@
+#include<stdio.h>
+void printName(){
+    printf("hello how are you");
+}
+int main(){
+    printName();
+    printf("all is well");
+    
+    return 0;
+}
